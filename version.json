@@ -1,10 +1,10 @@
 [
   {
     "name": "agcar_mobile_app",
-    "version": "10.0.0",
-    "build": "10",
+    "version": "1.0.2",
+    "build": "12",
     "releaseDate": "2026-06-04",
     "releaseNotes": "Initial release",
-    "forceUpdate": true
+    "forceUpdate": false
   }
 ]
