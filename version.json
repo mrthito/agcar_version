@@ -1,0 +1,10 @@
+[
+  {
+    "name": "agcar_mobile_app",
+    "version": "10.0.0",
+    "build": "10",
+    "releaseDate": "2026-06-04",
+    "releaseNotes": "Initial release",
+    "forceUpdate": true
+  }
+]
