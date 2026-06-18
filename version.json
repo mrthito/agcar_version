@@ -1,10 +1,10 @@
 [
   {
     "name": "agcar_mobile_app",
-    "version": "1.0.3",
-    "build": "13",
+    "version": "1.0.4",
+    "build": "14",
     "releaseDate": "2026-06-16",
-    "releaseNotes": "Favorites fixes, agcar.io deep links, localized terms page, and API cache improvements.",
+    "releaseNotes": "Make order flow improvements, KRW price filter fix, language switch stability, and UI polish.",
     "forceUpdate": false
   }
 ]
