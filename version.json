@@ -1,10 +1,10 @@
 [
   {
     "name": "agcar_mobile_app",
-    "version": "1.0.2",
-    "build": "12",
-    "releaseDate": "2026-06-04",
-    "releaseNotes": "Initial release",
+    "version": "1.0.3",
+    "build": "13",
+    "releaseDate": "2026-06-16",
+    "releaseNotes": "Favorites fixes, agcar.io deep links, localized terms page, and API cache improvements.",
     "forceUpdate": false
   }
 ]
